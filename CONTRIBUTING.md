@@ -22,8 +22,8 @@ no signature is required.
 
 Anyone who wants to contribute needs a [GitHub account](https://github.com/signup/free)
 
-Puppet employees and partner need a [Jira account](https://tickets.puppetlabs.com)
-to create and track tickets.
+Puppet employees need a [Jira account](https://tickets.puppetlabs.com) to create
+and track tickets.
 
 Create a new fork of the repository within your own GitHub user namespace.
 
