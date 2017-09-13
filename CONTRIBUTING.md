@@ -8,6 +8,14 @@ the team's repositories. Where a repository requires guidelines in addition to
 these general ones, those guidelines are documented in the project's own
 CONTRIBUTING.md document.
 
+## External Contributions
+
+External contributors making significant contributions to our projects must sign the
+[Contributor License Agreement](https://cla.puppet.com).
+
+For [trivial changes](https://docs.puppet.com/community/trivial_patch_exemption.html)
+no signature is required.
+
 ## Workflow
 
 ### Intitial setup
