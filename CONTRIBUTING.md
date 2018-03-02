@@ -18,7 +18,7 @@ no signature is required.
 
 ## Workflow
 
-### Intitial setup
+### Initial setup
 
 Anyone who wants to contribute needs a [GitHub account](https://github.com/signup/free)
 
@@ -41,7 +41,7 @@ Most changes to Puppet Education repositories should be tracked by a
 corresponding ticket in Jira. With the exception of certain minor changes ([see
 below](#making-commits)), Puppet employees working on Puppet Education project
 repositories must create a new ticket or base their work on an existing Jira
-ticket. In the case of outside contributers, we do not require a ticket to be
+ticket. In the case of outside contributors, we do not require a ticket to be
 created or referenced prior to submitting a pull request. In this case, the
 reviewing member of the Education team will handle any status changes to
 existing tickets as part of the review process.
@@ -70,7 +70,7 @@ Work in your local repository to make the changes needed to address the
 issue you're working on. Commits should be atomic and only introduce changes
 related to the issue you are working on.
 
-Do not include changes to version nubmers or change logs in your work. Rather,
+Do not include changes to version numbers or change logs in your work. Rather,
 include a sufficiently descriptive commit message to facilitate collating
 changelog entries that will be added in the next release.
 
@@ -125,7 +125,7 @@ final set of changes for a PR. When you are ready to submit a PR, squash
 intermediate-work into a final, well-formed commit. This makes a project's
 commit history more legible. See this
 [documentation](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) for
-specific information on ammending and squashing commits.
+specific information on amending and squashing commits.
 
 ### Testing
 
@@ -133,7 +133,7 @@ Before making a pull request, ensure that you have made any necessary changes
 to the repository's test suite and that the (updated) tests are passing.
 
 Generally, you should consider the following steps to validate your work before
-creatign a pull request:
+creating a pull request:
 
 * `puppet parser validate`
 * spellcheck
