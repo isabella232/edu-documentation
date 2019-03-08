@@ -13,7 +13,7 @@ CONTRIBUTING.md document.
 External contributors making significant contributions to our projects must sign the
 [Contributor License Agreement](https://cla.puppet.com).
 
-For [trivial changes](https://docs.puppet.com/community/trivial_patch_exemption.html),
+For [trivial changes](https://puppet.com/community/trivial-patch-exemption-policy),
 no signature is required.
 
 ## Workflow
